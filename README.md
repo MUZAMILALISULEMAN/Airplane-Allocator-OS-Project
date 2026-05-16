@@ -276,16 +276,6 @@ Both modules guarantee **at most one flight is processed on a given runway at an
 | Name | Student ID |
 |------|-----------|
 | **Muzamil Ali** | 24K-1023 |
-| **Syed Muhammad Muzammil Zaidi** | 24K-0887 |
-
-**Advisor:** Mr. Ubaidullah  
-**Course:** CS-2006 Operating Systems — Spring 2026  
-**Institution:** National University of Computer & Emerging Sciences (NUCES-FAST)
+| **Muzammil Zaidi** | 24K-0887 |
 
 ---
-
-<div align="center">
-
-Made with ☕ and too many `pthread_mutex_lock` calls
-
-</div>
